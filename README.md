@@ -7,7 +7,7 @@ This project demonstrates a simple storage contract, deployment scripts, and com
 
 ## Project Structure
 
-```
+```plaintext
 .
 ├── src/                  # Solidity contracts
 │   └── SimpleStorage.sol
